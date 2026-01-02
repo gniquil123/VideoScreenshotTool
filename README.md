@@ -2,6 +2,8 @@
 
 一个基于C#和FFmpeg的视频处理工具，支持按指定时间间隔生成视频截图、视频剪辑和截图重命名等功能。
 
+<img width="863" height="653" alt="0065aae8-698f-4092-a2be-0c56b70e0b30" src="https://github.com/user-attachments/assets/e2820fd8-0032-447f-9d89-35609e4d8546" />
+
 ## 功能特性
 
 - 📸 **按时间间隔截图**：支持自定义时间间隔生成视频截图
