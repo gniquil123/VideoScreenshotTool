@@ -1,0 +1,4 @@
+VideoPath=D:\TRAE\视频剪辑\新建文件夹 (3)\疯狂动物城_merged.mp4
+Interval=14
+OutputPath=D:\TRAE\视频剪辑\新建文件夹 (2)
+Theme=Dark
